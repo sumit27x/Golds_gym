@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Golds_gym/static/css/main.20acbc28.css",
+    "main.js": "/Golds_gym/static/js/main.3981444e.js",
+    "static/media/banner.png": "/Golds_gym/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Golds_gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Golds_gym/index.html",
+    "main.20acbc28.css.map": "/Golds_gym/static/css/main.20acbc28.css.map",
+    "main.3981444e.js.map": "/Golds_gym/static/js/main.3981444e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.3981444e.js"
+  ]
+}
